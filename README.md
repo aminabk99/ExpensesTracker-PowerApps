@@ -131,11 +131,6 @@ ExpensesTracker-PowerApps/
 
 ---
 
-## Resume Bullet
-
-> Built a mobile-first enterprise expense tracker on Microsoft Power Apps and Dataverse, implementing a global theming architecture supporting light/dark/high-contrast modes, per-user data isolation via PowerFx `Patch()` and `Filter()`, and a gallery-based navigation system — deployed as a fully packaged Power Platform solution
-
----
 
 <div align="center">
   <sub>Built by <a href="https://github.com/aminabk99">Amina Bilal</a> · <a href="https://linkedin.com/in/amina-bilal-926340382">LinkedIn</a></sub>
