@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💼 Galactic Corp Expense Tracker
+#  Expense Tracker
 ### Enterprise Expense Management — Built on Microsoft Power Platform
 
 A fully functional business expense tracking app built with **Microsoft Power Apps** and **Dataverse**, enabling employees to submit, review, and manage expenses from a single mobile-first interface. Features live spending dashboards, dynamic theming, and enterprise-grade data architecture.
